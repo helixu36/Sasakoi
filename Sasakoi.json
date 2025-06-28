@@ -4,5 +4,14 @@
   "artist": "Takeshima Eku",
   "author": "Takeshima Eku",
   "cover": "https://i.imgur.com/z6lTD4o.jpeg",
-  "chapters": {}
+  "chapters": {
+    "29": {
+      "title": "Practice, Managers and Secrets",
+      "volume": "6",
+      "last_updated": "1751096621",
+      "groups": {
+        "/u/ Scanlations": "/proxy/api/imgchest/chapter/m9yx8nx8k7q"
+      }
+    }
+  }
 }
